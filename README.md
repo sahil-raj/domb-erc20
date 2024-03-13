@@ -1,13 +1,5 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# domb-erc20
 
-Try running some of the following tasks:
+This is a learning project to get use to the workings of erc20 token. Implemented using openzeppelin library, tests using chai.js. This is an erc20 version [dumob](https://github.com/sahil-raj/domb).
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
